@@ -1,9 +1,9 @@
 {
-  "name": "gulp-pug-lint",
+  "name": "@fairmanager/gulp-pug-lint",
   "version": "0.1.6",
   "description": "Gulp plugin for pug-lint",
-  "homepage": "https://github.com/emartech/gulp-pug-lint",
-  "repository": "git://github.com/emartech/gulp-pug-lint.git",
+  "homepage": "https://github.com/fairmanager/gulp-pug-lint",
+  "repository": "git://github.com/fairmanager/gulp-pug-lint.git",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/*.spec.js && eslint *.js"
